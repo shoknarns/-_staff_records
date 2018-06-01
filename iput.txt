@@ -1,64 +1,74 @@
 4
-1
+2
 3
-Денисов Родион Гордеевич
+Denisov Rodion Gordeevich
 23
 11
 1967
 21
 12
 1958
-Гущин Вольдемар Митрофанович
+Gushchin Voldemar Mitrofanovich
 23
 11
 1882
 21
 1
 1988
-Борисов Юстиниан Натанович
+Borisov Iustinian Nathanovich
 23
 11
 1882
 21
 12
 2351
-Беляев Елисей Арсеньевич
+Beliaev Elisei Arsenevich
 23
 11
 1882
 21
-06
+6
 3988
-Муравьёв Эрнест Дмитриевич
-23
-11
-1882
-21
-1
-3988
-1
-Беляев Елисей Арсеньевич
-Мышкин Фрол Тарасович
-55
-55
-5555
-55
-55
-5555
-ololololo
-Агафонов Лука Русланович
+Mooreavyov Ernest Dmitrievich
 23
 11
 1882
 21
 1
 3988
-kokokkooko
-Чернов Нелли Олегович
-66
-66
-6666
-66
-66
-6666
-kokokkooko
+2
+Beliaev Elisei Arsenevich
+Denisov Rodion Gordeevich
+Savin Leonid Coopriianovich
+23
+11
+1882
+21
+1
+1988
+1
+Borisov Iustinian Nathanovich
+Myshkin Frol Tarasovich
+15
+3
+1990
+21
+8
+2012
+Slesar
+Agafonov Luka Ruslanovich
+23
+11
+1952
+21
+9
+1988
+Sekretar
+Chernov Nelli Olegovich
+15
+1
+1974
+18
+10
+1992
+Bufetchik
